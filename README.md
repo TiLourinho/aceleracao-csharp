@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/TiLourinho/aceleracao-csharp/blob/main/logo.png" alt="Logo da escola Trybe" width="400px" />
+ <img src="https://github.com/TiLourinho/aceleracao-csharp/blob/main/logo.png" alt="Logo da escola Trybe" width="500px" />
 </p>
 
 <h1 align="center">Aceleração C#</h1>
