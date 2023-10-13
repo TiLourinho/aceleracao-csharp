@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/TiLourinho/aceleracao-csharp/blob/main/logo.png" alt="Logo da escola Trybe" width="400px" />
+ <img src="https://github.com/TiLourinho/aceleracao-csharp/blob/main/logo.png" alt="Logo da escola Trybe" width="500px" />
 </p>
 
 <h1 align="center">Aceleração C#</h1>
@@ -12,6 +12,6 @@
 <hr>
 <a href="https://www.betrybe.com/">
  <p align="center">
-  <img src="https://github.com/TiLourinho/aceleracao-csharp/blob/main/icon.png" alt="Logo da DIO" width="50px" />
+  <img src="https://github.com/TiLourinho/aceleracao-csharp/blob/main/icon.png" alt="Logo da DIO" width="40px" />
  </p>
 </a>
