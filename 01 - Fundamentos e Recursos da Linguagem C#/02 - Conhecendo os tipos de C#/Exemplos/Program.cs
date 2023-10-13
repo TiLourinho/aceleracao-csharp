@@ -77,5 +77,47 @@ Console.WriteLine("Para iluminar o cômodo: " + convenient + " com " + squareMet
 /*
 Outros Tipos de Dados no C#
 
+// Enum
 
+namespace namespaceExample;
+
+// Criando um enum
+enum CardinalPoints
+{
+    Norte,
+    Sul,
+    Leste,
+    Oeste
+};
+
+class Program
+{
+    public static void Main()
+    {
+        // Utilizando um enum
+        CardinalPoints direction = CardinalPoints.Norte;
+        Console.WriteLine("Ponto Cardeal: " + direction);
+    }
+}
+
+// Constantes
+
+const string url = "https://www.betrybe.com/";
+const int numberOfAttemptsAllowed = 5;
+
+// Variáveis com tipo implícito
+
+var school = "Trybe";
+// esta variável será compilada como string
+
+var semester = 1;
+// esta variável será compilada como int
+
+var student = new { name = "Jorge", age = 30 };
+// esta variável será compilada como um tipo anônimo
+
+Console.WriteLine("Olá! Me chamo " + student.name + " " +
+                  "sou um estudante da escola " + school + " " +
+                  "estou no " + semester + "º semestre " +
+                  "e tenho " + student.age + " anos"); 
 */
