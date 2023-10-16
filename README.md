@@ -27,6 +27,7 @@
 #### Bloco 02 - Variáveis com Tipo, Condicionais e Loops
 
 - [X] [01 - Cast implícito e cast explícito](https://github.com/TiLourinho/aceleracao-csharp/tree/main/Se%C3%A7%C3%A3o%2001%20-%20Fundamentos%20e%20Recursos%20da%20Linguagem%20C%23/Bloco%2002%20-%20Vari%C3%A1veis%20com%20Tipo%2C%20Condicionais%20e%20Loops/01%20-%20Cast%20impl%C3%ADcito%20e%20cast%20expl%C3%ADcito/Exemplos)
+- [X] [02 - Estruturas de controle](https://github.com/TiLourinho/aceleracao-csharp/tree/main/Se%C3%A7%C3%A3o%2001%20-%20Fundamentos%20e%20Recursos%20da%20Linguagem%20C%23/Bloco%2002%20-%20Vari%C3%A1veis%20com%20Tipo%2C%20Condicionais%20e%20Loops/02%20-%20Estruturas%20de%20controle/Exemplos)
 
 <hr>
 <a href="https://www.betrybe.com/">
