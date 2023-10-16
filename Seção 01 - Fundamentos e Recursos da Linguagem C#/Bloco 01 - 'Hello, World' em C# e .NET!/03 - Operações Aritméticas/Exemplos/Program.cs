@@ -3,7 +3,6 @@
 /* Operações Aritméticas */
 
 // Adição
-
 int a = 50, b = 50;
 int result1 = a + b;
 Console.WriteLine("Adição: " + a + " + " + b + " = " + result1);
