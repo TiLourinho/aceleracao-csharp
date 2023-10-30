@@ -32,7 +32,7 @@
 
 #### Bloco 03 - Arrays, Funções e Exceções
 
-- [X] [01 - A estrutura Array]([https://github.com/TiLourinho/aceleracao-csharp/tree/main/Se%C3%A7%C3%A3o%2001%20-%20Fundamentos%20e%20Recursos%20da%20Linguagem%20C%23/Bloco%2003%20-%20Arrays%2C%20Fun%C3%A7%C3%B5es%20e%20Exce%C3%A7%C3%B5es/01%20-%20A%20estrutura%20Array/Exemplos](https://github.com/TiLourinho/aceleracao-csharp/tree/main/Se%C3%A7%C3%A3o%2001%20-%20Fundamentos%20e%20Recursos%20da%20Linguagem%20C%23/Bloco%2003%20-%20Arrays%2C%20Fun%C3%A7%C3%B5es%20e%20Exce%C3%A7%C3%B5es/01%20-%20A%20estrutura%20Array)
+- [X] [01 - A estrutura Array](https://github.com/TiLourinho/aceleracao-csharp/tree/main/Se%C3%A7%C3%A3o%2001%20-%20Fundamentos%20e%20Recursos%20da%20Linguagem%20C%23/Bloco%2003%20-%20Arrays%2C%20Fun%C3%A7%C3%B5es%20e%20Exce%C3%A7%C3%B5es/01%20-%20A%20estrutura%20Array)
 
 <hr>
 <a href="https://www.betrybe.com/">
