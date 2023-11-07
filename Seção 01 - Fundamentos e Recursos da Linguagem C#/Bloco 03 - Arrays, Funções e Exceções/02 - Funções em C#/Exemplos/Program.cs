@@ -45,3 +45,31 @@ double CalculateBMI(int weight, double height)
 }
 
 Console.WriteLine($"O resultado do meu IMC é {CalculateBMI(92, 1.67):N2}.");
+
+/* Funções sem retorno */
+
+/*
+    public void SendEmail()
+    {
+    // Bloco de código que vai conter tudo que for necessário para o envio de um e-mail
+    }
+*/
+
+/* Funções com retorno */
+
+static int CalculateAgeByYear(int yearOfBirth)
+{
+    return DateTime.Now.Year - yearOfBirth;
+}
+
+var age = CalculateAgeByYear(2006);
+
+static bool ValidateComingOfAge(int age)
+{
+    return age >= 18;
+}
+
+var isOfLegalAge = ValidateComingOfAge(age);
+string yesOrNo = isOfLegalAge == true ? "Sim" : "Não";
+
+Console.WriteLine($"É maior de idade? {yesOrNo}.");
