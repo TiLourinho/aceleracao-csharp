@@ -36,6 +36,10 @@
 - [X] [02 - Funções em C#](https://github.com/TiLourinho/aceleracao-csharp/tree/main/Se%C3%A7%C3%A3o%2001%20-%20Fundamentos%20e%20Recursos%20da%20Linguagem%20C%23/Bloco%2003%20-%20Arrays%2C%20Fun%C3%A7%C3%B5es%20e%20Exce%C3%A7%C3%B5es/02%20-%20Fun%C3%A7%C3%B5es%20em%20C%23/Exemplos)
 - [X] [03 - Lidando com exceções em C#](https://github.com/TiLourinho/aceleracao-csharp/tree/main/Se%C3%A7%C3%A3o%2001%20-%20Fundamentos%20e%20Recursos%20da%20Linguagem%20C%23/Bloco%2003%20-%20Arrays%2C%20Fun%C3%A7%C3%B5es%20e%20Exce%C3%A7%C3%B5es/03%20-%20Lidando%20com%20exce%C3%A7%C3%B5es%20em%20C%23/Exemplos)
 
+#### Bloco 04 - Manipulação de Tipos e Debugger
+
+- [ ] [01 - Strings](https://github.com/TiLourinho/aceleracao-csharp/tree/main/Se%C3%A7%C3%A3o%2001%20-%20Fundamentos%20e%20Recursos%20da%20Linguagem%20C%23/Bloco%2004%20-%20Manipula%C3%A7%C3%A3o%20de%20Tipos%20e%20Debugger/01%20-%20Strings/Exemplos)
+
 <hr>
 <a href="https://www.betrybe.com/">
  <p align="center">
