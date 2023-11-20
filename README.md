@@ -39,7 +39,7 @@
 #### Bloco 04 - Manipulação de Tipos e Debugger
 
 - [X] [01 - Strings](https://github.com/TiLourinho/aceleracao-csharp/tree/main/Se%C3%A7%C3%A3o%2001%20-%20Fundamentos%20e%20Recursos%20da%20Linguagem%20C%23/Bloco%2004%20-%20Manipula%C3%A7%C3%A3o%20de%20Tipos%20e%20Debugger/01%20-%20Strings/Exemplos)
-- [ ] [02 - Datas]()
+- [X] [02 - Datas](https://github.com/TiLourinho/aceleracao-csharp/tree/main/Se%C3%A7%C3%A3o%2001%20-%20Fundamentos%20e%20Recursos%20da%20Linguagem%20C%23/Bloco%2004%20-%20Manipula%C3%A7%C3%A3o%20de%20Tipos%20e%20Debugger/02%20-%20Datas/Exemplos)
 
 <hr>
 <a href="https://www.betrybe.com/">
