@@ -15,8 +15,8 @@ Rocket rocket2 = new("Falcon 9", 90000000);
 Console.WriteLine(rocket1.Name);
 Console.WriteLine(rocket2.Name);
 
-rocket1.FuelAsPercentage = 45;
-rocket2.FuelAsPercentage = 30;
+rocket1.FuelAsPercentage = 85;
+rocket2.FuelAsPercentage = 60;
 
 Console.WriteLine($"A {rocket1.Name}, que terá seu lançamento com {rocket1.FuelAsPercentage}% de sua capacidade total de combustível, teve seu custo no total de $ {rocket1.Price}.");
 Console.WriteLine($"A {rocket2.Name}, que terá seu lançamento com {rocket2.FuelAsPercentage}% de sua capacidade total de combustível, teve seu custo no total de $ {rocket2.Price}.");
