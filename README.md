@@ -16,7 +16,7 @@
 <p align="center"><i>Ao final desta Aceleração, você será capaz de criar um projeto ASP.Net do zero e desenvolver até o último passo, o deploy. Desta forma, iremos garantir um aprendizado completo para que você inicie na carreira como <strong>Pessoa Desenvolvedora .Net Júnior</strong> ou <strong>Pessoa Desenvolvedora Full Stack ASP.Net C# Júnior</strong>.</i></p>
 <hr>
 
-### Seção 01 - Fundamentos e Recursos da Linguagem C# ⏳
+### Seção 01 - Fundamentos e Recursos da Linguagem C# ✔️
 
 #### Bloco 01 - "Hello, World!" em C# e .NET
 
@@ -41,6 +41,12 @@
 - [X] [01 - Strings](https://github.com/TiLourinho/aceleracao-csharp/tree/main/Se%C3%A7%C3%A3o%2001%20-%20Fundamentos%20e%20Recursos%20da%20Linguagem%20C%23/Bloco%2004%20-%20Manipula%C3%A7%C3%A3o%20de%20Tipos%20e%20Debugger/01%20-%20Strings/Exemplos)
 - [X] [02 - Datas](https://github.com/TiLourinho/aceleracao-csharp/tree/main/Se%C3%A7%C3%A3o%2001%20-%20Fundamentos%20e%20Recursos%20da%20Linguagem%20C%23/Bloco%2004%20-%20Manipula%C3%A7%C3%A3o%20de%20Tipos%20e%20Debugger/02%20-%20Datas/Exemplos)
 - [X] [03 - Tipos avançados](https://github.com/TiLourinho/aceleracao-csharp/tree/main/Se%C3%A7%C3%A3o%2001%20-%20Fundamentos%20e%20Recursos%20da%20Linguagem%20C%23/Bloco%2004%20-%20Manipula%C3%A7%C3%A3o%20de%20Tipos%20e%20Debugger/03%20-%20Tipos%20avan%C3%A7ados)
+
+### Seção 02 - Orientação a Objetos com C# ⏳
+
+#### Bloco 01 - Abstração e Métodos Estáticos
+
+- [X] [01 - Abstração: As Classes em C#](https://github.com/TiLourinho/aceleracao-csharp/tree/main/Se%C3%A7%C3%A3o%2002%20-%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20com%20C%23/Bloco%2001%20-%20Abstra%C3%A7%C3%A3o%20e%20M%C3%A9todos%20Est%C3%A1ticos/01%20-%20Abstra%C3%A7%C3%A3o%20-%20As%20Classes%20em%20C%23/PetShop)
 
 <hr>
 <a href="https://www.betrybe.com/">
