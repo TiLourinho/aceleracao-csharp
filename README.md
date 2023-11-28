@@ -47,6 +47,7 @@
 #### Bloco 01 - Abstração e Métodos Estáticos
 
 - [X] [01 - Abstração: As Classes em C#](https://github.com/TiLourinho/aceleracao-csharp/tree/main/Se%C3%A7%C3%A3o%2002%20-%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20com%20C%23/Bloco%2001%20-%20Abstra%C3%A7%C3%A3o%20e%20M%C3%A9todos%20Est%C3%A1ticos/01%20-%20Abstra%C3%A7%C3%A3o%20-%20As%20Classes%20em%20C%23)
+- [X] [02 - Getters e setters padrão](https://github.com/TiLourinho/aceleracao-csharp/tree/main/Se%C3%A7%C3%A3o%2002%20-%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20com%20C%23/Bloco%2002%20-%20Getters%20e%20setters%20padr%C3%A3o/Exemplos)
 
 <hr>
 <a href="https://www.betrybe.com/">
